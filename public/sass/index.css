@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.container__game {
+  text-align: center;
+  margin: 30px 0 0 0;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container__game .board__game {
+  border: 2px solid black;
+}
+.container__game .score__text {
+  font-size: 5rem;
+  margin: 10px 0;
+}
+.container__game .btn__reset {
+  font-size: 2rem;
+  padding: 5px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=index.css.map */
